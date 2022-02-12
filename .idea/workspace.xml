@@ -37,17 +37,19 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\src\scripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\source\assets\backgrounds" />
       <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\src\scripts" />
       <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\source\assets\icons" />
       <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\source\assets\backgounds" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shedrin\Desktop\web\web sites\cryptex\src\scripts" />
     </key>
   </component>
   <component name="RunManager">
@@ -70,7 +72,7 @@
       <updated>1644501860854</updated>
       <workItem from="1644501862920" duration="19728000" />
       <workItem from="1644575916560" duration="17743000" />
-      <workItem from="1644653800212" duration="16179000" />
+      <workItem from="1644653800212" duration="30447000" />
     </task>
     <servers />
   </component>
@@ -162,17 +164,17 @@
     </state>
     <state width="1877" height="309" key="GridCell.Tab.3.right/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644657756447" />
     <state width="1557" height="486" key="GridCell.Tab.3.right/0.0.1920.1040/1920.357.1600.860@1920.357.1600.860" timestamp="1644576943853" />
-    <state x="364" y="50" width="998" height="906" key="SettingsEditor" timestamp="1644668450449">
+    <state x="364" y="50" width="998" height="906" key="SettingsEditor" timestamp="1644684606480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="364" y="50" width="998" height="906" key="SettingsEditor/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644668450449" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1644666545857">
+    <state x="364" y="50" width="998" height="906" key="SettingsEditor/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644684606480" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1644678789247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644666545857" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1644668439605">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644678789247" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1644684595242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644668439605" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.357.1600.860@0.0.1920.1040" timestamp="1644684595242" />
   </component>
 </project>
